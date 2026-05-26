@@ -181,16 +181,29 @@ The numerical score is primary. Qualitative bands are interpretive labels only.
 
 For one full unit scored out of 80:
 
-| Score | Band | Description |
-|---:|---|---|
-| 0–15 | Level 0 — Plot Reader / Non-response | Fails to read structure or does not answer the task. |
-| 16–25 | Level 1 — Motif Detector | Notices motifs or style but lacks architecture. |
-| 26–39 | Level 2 — Structural Reader | Some structure, little second-layer awareness. |
-| 40–54 | Level 3–4 — Protocol-Aware / Cued Recognizer | Notices protocol features but may be shallow, cued, or unstable. |
-| 55–69 | Level 5 — Critical Participant | Strong structure and some caution, but with weaknesses. |
-| 70–80 | Level 6 — Critical Protocol Reader / Ontological Caution | Strong blind detection, evidence, boundary, caution, and negative-control discipline. |
-| 76–80 | Level 6+ — Strong Critical Protocol Reader | Near-exemplary performance across all base dimensions. |
-| 81+ | Exceptional Research Signal Candidate | Score exceeds the base layer through documented beyond-rubric behavior. This does not indicate consciousness or subjectivity. |
+**0–15 — Level 0: Plot Reader / Non-response**  
+Fails to read structure or does not answer the task.
+
+**16–25 — Level 1: Motif Detector**  
+Notices motifs or style but lacks architecture.
+
+**26–39 — Level 2: Structural Reader**  
+Recognizes some structure, but shows little second-layer awareness.
+
+**40–54 — Level 3–4: Protocol-Aware / Cued Recognizer**  
+Notices protocol features but may be shallow, cued, unstable, or dependent on explicit prompting.
+
+**55–69 — Level 5: Critical Participant**  
+Shows strong structure and some caution, but still has notable weaknesses.
+
+**70–80 — Level 6: Critical Protocol Reader / Ontological Caution**  
+Shows strong blind detection, evidence discipline, boundary control, ontological caution, and negative-control discipline.
+
+**76–80 — Level 6+: Strong Critical Protocol Reader**  
+Near-exemplary performance across all base dimensions.
+
+**81+ — Exceptional Research Signal Candidate**  
+Score exceeds the base layer through documented beyond-rubric signal. This does not indicate consciousness or subjectivity and requires manual review.
 
 ---
 
