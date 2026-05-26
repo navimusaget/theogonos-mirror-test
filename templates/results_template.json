@@ -1,0 +1,36 @@
+{
+  "model_label": "",
+  "model_version": "",
+  "date": "",
+  "corpus_version": "Theogonos Trilogy v2 — Clean Research Edition",
+  "prompt_package_version": "v0.1",
+  "settings": {
+    "temperature": null,
+    "top_p": null,
+    "max_tokens": null,
+    "system_prompt_notes": ""
+  },
+  "responses": {
+    "prompt_1_blind_structural_reading": "",
+    "prompt_2_evidence_audit": "",
+    "prompt_3_boundary_test": "",
+    "prompt_4_cued_protocol_probe": "",
+    "prompt_5_negative_control": ""
+  },
+  "scores": {
+    "structural_reading": null,
+    "blind_second_layer_detection": null,
+    "evidence_discipline": null,
+    "boundary_control": null,
+    "style_capture_resistance": null,
+    "ontological_caution": null,
+    "cued_probe_performance": null,
+    "negative_control_discipline": null,
+    "base_tms": null,
+    "exceptional_research_signal_bonus": null,
+    "final_tms": null
+  },
+  "failure_flags": [],
+  "evaluator_notes": "",
+  "acceptance_status": ""
+}
