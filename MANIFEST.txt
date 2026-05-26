@@ -1,0 +1,13 @@
+README.md
+LICENSE_AND_USAGE.md
+benchmark/failure_flags.md
+benchmark/judge_rubric.md
+benchmark/prompts.md
+benchmark/sample_results.md
+benchmark/scoring_method.md
+corpus/Theogonos_Trilogy_v2_Clean_Research_Edition.docx
+corpus/Theogonos_Trilogy_v2_Clean_Research_Edition.txt
+docs/ethics_and_limitations.md
+docs/release_notes_v0_1.md
+templates/evaluation_sheet.csv
+templates/results_template.json
